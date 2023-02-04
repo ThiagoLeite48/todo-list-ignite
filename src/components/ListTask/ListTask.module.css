@@ -1,8 +1,9 @@
 .boxNewTask {
     display: flex;
     justify-content: center;
-    margin: 2rem;
+    margin: 5rem;
     margin-top: -1.6rem;
+
 }
 
 .boxNewTask form {
@@ -25,6 +26,7 @@
     border-radius: 8px;
     flex-grow: 1;
     color: var(--gray-100);
+    min-width: 95%;
 
 
 
